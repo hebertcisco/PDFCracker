@@ -5,16 +5,16 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/hebertcisco/pdfCracker/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/hebertcisco/pdfCracker?style=flat&color=336791" />
+    <a href="https://github.com/hebertcisco/PDFCracker/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/hebertcisco/PDFCracker?style=flat&color=336791" />
     </a>
-    <a href="https://github.com/hebertcisco/pdfCracker/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/hebertcisco/pdfCracker?style=flat&color=336791" />
+    <a href="https://github.com/hebertcisco/PDFCracker/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/hebertcisco/PDFCracker?style=flat&color=336791" />
     </a>
     <br />
     <br />
-  <a href="https://github.com/hebertcisco/pdfCracker/issues/new/choose">Report Bug</a>
-  <a href="https://github.com/hebertcisco/pdfCrackerissues/new/choose">Request Feature</a>
+  <a href="https://github.com/hebertcisco/PDFCracker/issues/new/choose">Report Bug</a>
+  <a href="https://github.com/hebertcisco/PDFCracker/new/choose">Request Feature</a>
   </p>
 
 <p align="center">Did you like the project? Please, considerate <a href="https://www.buymeacoffee.com/hebertcisco">a donation</a> to help improve!</p>
@@ -26,14 +26,14 @@
 
 ## Installation
 
-> Clone this repository: `git clone https://github.com/hebertcisco/pdfCracker`
+> Clone this repository: `git clone https://github.com/hebertcisco/PDFCracker`
 
 ### Open the directory and run the script line:
 
 
 ``` bash
-$ git clone https://github.com/hebertcisco/pdfCracker.git
-$ cd IruPlori/
+$ git clone https://github.com/hebertcisco/PDFCracker.git
+$ cd PDFCracker/
 $ pip3 install -r requirements.txt
 ```
 
