@@ -27,6 +27,8 @@
 ## Installation
 
 > Clone this repository: `git clone https://github.com/hebertcisco/PDFCracker`
+
+
 > You need a wordlist (`"wordlist.txt`) in order to use this script, and you need an authenticated PDF file (`file.pdf`).
 
 ### Open the directory and run the script line:
